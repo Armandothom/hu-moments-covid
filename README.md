@@ -41,7 +41,7 @@ Das 9 imagens, foram classificadas 8 imagens com covid corretamente e 0 imagens 
 ## Passos de reprodução
 1 - Fazer download do dataset
 
-2 - Inserir o dataset dentro do folder **features_labels**, com seus respectivos subfolders **(test e train)**
+2 - Inserir o dataset dentro do folder **images_full**, com seus respectivos subfolders **(test e train)**
 
 3 - Executar data_splitting.py
 
